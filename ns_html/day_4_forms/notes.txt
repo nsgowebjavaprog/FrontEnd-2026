@@ -1,0 +1,14 @@
+
+    <!-- form  -->
+    <!-- label  -->
+    <!-- input  -->
+    <!-- type  -->
+    <!-- type="submit"  -->
+    <!-- where the form data will store? -->
+    <!-- name attribute in input tag -->
+    <!-- radio -->
+    <!-- for and id in label and input  -->
+    <!-- value in input tag  -->
+    <!-- textarea and checkbox  -->
+    <!-- what is select and option in dropdown -->
+<!-- id- select,  value for backend submission, name is ? -->

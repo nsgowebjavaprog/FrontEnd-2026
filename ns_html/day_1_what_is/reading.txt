@@ -17,14 +17,3 @@
 17. how to make link [anchor tag]
 18. what is target in anchor tag and href
 19. what is img,src,alt
-20. 
-21. 
-22. 
-23. 
-24. 
-25. 
-26. 
-27. 
-28. 
-29. 
-30. 

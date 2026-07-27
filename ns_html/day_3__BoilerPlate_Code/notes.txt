@@ -1,0 +1,16 @@
+    <!-- Boiler-Plate -->
+    <!-- DOCTYPE version -->  
+    <!-- metadata - data under data  -->
+    <!-- name,content,initial-scale -->
+    <!-- charset="UTF-8" - store data in binary -->
+    <!-- div  -->
+    <!-- class  -->
+    <!-- id  -->
+
+    <!-- Relative Path -->
+    <!-- Absolute Path -->
+    <!-- alt  -->
+    <!-- img  -->
+    <!-- src  -->
+    <!-- how to get security from absolute path and relative path  -->
+    

@@ -1,0 +1,15 @@
+1. What is and how works tr - table row    
+2. What is and how works td - table col_header
+3. What is and how works th - table heading in col
+4. What is and how works thead
+5. What is and how works tbody
+7. What is and how works tfoot
+6. What is and how works colspan
+7. What is and how works rowspan
+8. What is and how works tr
+9. What is and how works td
+10.What is and how works thead
+11.What is and how works thead
+12.What is and how works tbody 
+13.What is and how works tfoot 
+

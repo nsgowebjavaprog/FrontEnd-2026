@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+
+/* From original position 
+
+h1{
+    background-color: orange;
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+
+*/
+
+/* Fixed  
+
+h2{
+    background-color: yellow;
+    position: fixed;
+    top: 0;
+    left:50px;
+}
+*/
+
+/* Sticky  
+
+h4{
+    background-color: pink;
+    position: sticky;
+}
+*/
+
+/* Absolute 
+
+h5{
+    background-color: palegoldenrod;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+
+}
+*/
+

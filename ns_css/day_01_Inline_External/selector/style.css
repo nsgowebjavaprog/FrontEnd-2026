@@ -1,0 +1,90 @@
+/* select on Tag 
+
+h1{
+    background-color: yellowgreen;
+}
+
+h2{
+    background-color: yellow;
+}
+
+/* select on ID #
+
+#first{
+    background-color: purple;
+}
+
+#sec{
+    background-color: pink;
+}
+
+/* select on CLASS . --  allow multiple side
+
+.three{
+    color: blue;
+}
+
+ */
+
+
+/* group based selection 
+
+h1, .three, #sec{
+    background-color: aqua;
+}
+
+*/
+
+/* Colouring:  red, greenn, blue [rgb] [255,255,255]  */
+
+/* [rgb] [255,255,255] --> 8/8/8 --> bits [3 bytes]
+/* 4th value --> Transference value
+h1{
+    background-color: rgb(226, 7, 242);
+}
+
+h2{
+    background-color: hsl(110, 50%, 30%);
+}
+
+h1{
+    background-color: rgba(24, 214, 214, 0.452);
+}
+*/
+
+/* hexadecimal form  
+
+h1{
+    background-color: #639747;  /*  2[red]2[green]2[blue]
+}
+
+*/
+
+/* font  */
+
+h1{
+    font-size: 50px;
+}
+
+li{
+    font-size: 1.2em;
+}
+
+h2{
+    font-size: 2vw;
+}
+
+h2{
+    font-size: 2vh;
+}
+
+h2{
+    font-size: 200%; 
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size : small;
+}
+

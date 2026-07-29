@@ -1,0 +1,13 @@
+link: https://app.notion.com/p/Box-Model-Lecture-02-2693a78e0e228042ac64e8f3f1bfca86
+
+1. what Inline element vs block element with e.g
+2. what is *{} in css
+3. what is span in html working and helps?
+4. in side span have padding and margin?
+5. horizontal applicable but,not in verticle
+6. it not padding-top/bottom but it show colour [maggic]
+7. what is display inline?
+8. what is block: display & display:inline ?
+9. what is display: inline-block
+10. box-sizing: border-box?
+11. what is with e.g for box-sizing: border-box; & box-sizing: content-box;

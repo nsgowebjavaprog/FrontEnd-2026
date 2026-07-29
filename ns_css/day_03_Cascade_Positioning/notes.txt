@@ -1,0 +1,12 @@
+link: 
+
+1. what is and working of Cascade & Positioning
+2. most preority --> inline css
+3. more priority: inline --> internalline --> external line
+4. more priority: id --> class
+5. same ele then ordering imp [last line most imp]
+6. inline override by using: {'!important'}
+7. position: static, relative, fixed, sticky, absolute
+8. 
+9. 
+10.   

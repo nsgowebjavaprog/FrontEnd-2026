@@ -1,0 +1,13 @@
+link:  https://app.notion.com/p/CSS-Introduction-2683a78e0e2280499877dcac0df77992
+
+
+1. what is inline,internal,external css?
+2. why we use external insted of inline,internal 
+3. use-case of external css [use in multiple file]
+4. what is px [picture element]
+5. google: 1px in inch = 1/96 
+6. above not correct in small devide and large device show same photo in diff-size 
+7. therefore px size depends on screen not[1/96]inch.
+8. 1em = parent * 1 [ul [parent] --> li[child]]
+9. what is vw, vh
+10. %, font-family, font-size, font-weight, 

@@ -2,14 +2,9 @@
 2. Valid Palindrome (with edge cases)
 3. First Non-Repeating Character in a String  
 4. Valid Anagram  
-5. Group Anagrams  
-6. Longest Substring Without Repeating Characters  
-7. Longest Palindromic Substring  
-8. Minimum Window Substring  
-9. Implement strStr() (Find the Index of the First Occurrence)
-10. String to Integer (atoi)  
-11. Longest Common Prefix  
-12. String Compression (Run-Length Encoding)
-13. Repeated String Match / String Rotation  
-14. Edit Distance  
-15. Regular Expression / Wildcard Matching
+5. Longest Substring Without Repeating Characters
+6. Longest Common Prefix
+7. Valid Parentheses
+8. Find the Index of the First Occurrence
+9. String Compression
+10. String to Integer (atoi)
